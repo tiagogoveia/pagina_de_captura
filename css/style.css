@@ -8,7 +8,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: black;
-    
+   
 }
 
 .container{
@@ -30,3 +30,29 @@ header{
     font-size: 25px;
     
 }
+
+section{
+   
+}
+
+.formcontainer{
+    max-width: 250px;
+    background-color: #ffffffbb;
+    padding: 20px;
+    float: right;
+      
+}
+
+h2{
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+p{
+    margin-bottom: 15px;
+}
+
+input, select{
+    margin-bottom: 10px;
+}
+
