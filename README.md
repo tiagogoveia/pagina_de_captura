@@ -1,2 +1,5 @@
 # pagina_de_captura
- praticando html e css
+ 
+nesse projeto eu fiz uma pagina de cadastro para um suposto evento.
+
+feito com CSS e HTML puro.
