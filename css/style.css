@@ -4,13 +4,11 @@
 }
 
 
-
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-color: black;
-    
-   
+    background-color: black; 
 }
+
 
 .container{
     max-width: 1000px;
@@ -22,36 +20,30 @@ header{
     background-color: #48c5ce;
     text-align: center;
     color: white;
-    padding: 10px;
-    
-    
+    padding: 10px;   
 }
 
+
 .title{
-    font-size: 25px;
-    
+    font-size: 25px;   
 }
+
 
 section{
    
    background-image: url(../image/people.jpg);
    background-repeat: ;
    background-size: cover;
-   overflow: hidden;
- 
- 
-   
-
-   
+   overflow: hidden;  
 }
+
 
 .formcontainer{
     margin: 15px;
     max-width: 230px;
     background-color: #ffffffbb;
     padding: 20px;
-    float: right; 
-      
+    float: right;      
 }
 
 
@@ -63,13 +55,12 @@ input, select{
     border: none;
 }
 
+
 h2{
     font-size: 16px;
     padding-bottom: 20px;
-
-
- 
 }
+
 
 p{
     padding-bottom: 20px;
@@ -79,9 +70,9 @@ p{
 input[type="submit"] {
 color: white;
 background-color: #48c5ce;
-font-weight: bold;
-    
+font-weight: bold;  
 }
+
 
 footer{
     
@@ -89,40 +80,34 @@ footer{
     text-align: center;
     max-width: 900px;
     margin: auto;
-    padding: 50px;
-    
-    
-    
+    padding: 50px;  
 }
 
 
 .picture{
     width: 160px;
-  
-
 }
-
 
 
 .description{
      color: white;
     display: inline-block;
     max-width: 40%;
-    text-align: left;
-
-    
+    text-align: left;  
 }
+
 
 .description p, .description h3{
     margin-bottom: 30px;
     margin-left: 50px;
-  
 }
+
 
 .description h3{
       font-size: 24px;
 
 }
+
 
 .description p{
     font-size: 17px;
