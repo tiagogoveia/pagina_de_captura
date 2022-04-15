@@ -32,7 +32,7 @@ header{
 section{
    
    background-image: url(../image/people.jpg);
-   background-repeat: ;
+   background-repeat: no-repeat ;
    background-size: cover;
    overflow: hidden;  
 }
